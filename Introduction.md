@@ -2,7 +2,7 @@
 ## Facilitator Guide
 
 
-* [Materials](Materials.md)
+* [Materials](#Materials)
 * [Room Set-up](Room.md)
 
 * [Kick off](Kickoff.md)
@@ -23,3 +23,6 @@
 * Who
 * Pains and Gains
 * Wrap up
+
+
+# Materials
