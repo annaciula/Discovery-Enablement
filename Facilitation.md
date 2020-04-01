@@ -1,11 +1,11 @@
-Introduce# Discovery Session Enablement
+# Discovery Session Enablement
 <p>
 
 ## Facilitator Guide
 
 >This guide is a working document intended to evolve inline with the Discovery Session Enablement.
 Please share your thoughts and ideas on how to make it better.
-Add them as issues to the [repository](https://GitHub.com) and they will be incorporated.<p>
+Add them as issues to the [repository](https://github.com/annaciula/Discovery-Enablement) and they will be incorporated.<p>
 > This document was created to acompany the face to face
 [Discovery Session Enablement Slide Deck](https://docs.google.com/presentation/d/1U_EBLS3NX0cW-Rt1-ai5bjW4JYPUh_0RFjgD843oMrY/edit?ts=5e7e0ef7#slide=id.g7f0efe6533_0_568).
 Most of the practices used can be found in the [Open Practice Library](https://openpracticelibrary.com/). The Customer Canvas have been inspired by the Discovery Map of the [Mobius Toolkit](https://mobiusloop.com/kit/).
@@ -413,39 +413,4 @@ After wrapping up the session, allow 15-20 min for Retrospective and confidence 
 * Run roman voting on each target outcome of the Session
 * Run the "one takeaway" retro around the circle
 
-![Tape ](Images\tape.jpg)
-
-
-
-
 ## <a id="After"></a>After the Enablement
-**TO DO:**
-
-- [x] Before the Enablement
-- [ ] Enablement Facilitation
-  - [x] Kick off
-  - [x] Why Canvas
-  - [ ] Who Canvas
-  - [ ] Pains & Gains Canvas
-  - [ ] Target Outcomes Canvas
-  - [ ] Market Overview
-  - [ ] Gathering Technical Requirements
-  - [ ] Wrap Up
-  - [ ] Output
-- [ ] After the Enablement
-- [ ] Add HTML conversion notes to github
-- [ ] Feedback notes
-- [ ] Add contribution steps
-- [ ] Update repo details in the intro
-- [ ] Add the canvas image to the folder
-- [x] Dinner/Social
-- [x] Capture the event/video
-- [ ] Walk the wall type of activity
-- [ ] Inventory of all facilitation Materials
-- [ ] check old enablement guide, see if anything needs adding
-- [ ] review by Darps
-- [ ] review by Cansu
-- [ ] review by Donal
-- [ ] review by Kerrie
-- [ ] review by Ed
-- [ ] Review by Jason
